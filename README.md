@@ -1,4 +1,4 @@
 Droid-Wars
 ==========
 
-Droid Wars: a 2D Unity game I use as an example in my Mobile Game Development class
+Droid Wars: a 2D Unity game I have used as an example in a Mobile Game Development class
